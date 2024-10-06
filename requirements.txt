@@ -1,0 +1,6 @@
+Flask
+Flask-SQLAlchemy
+Flask-Caching
+Flask-Migrate
+Flask-Celery-Helper
+Redis
