@@ -1,4 +1,5 @@
 from app import db
+from xURL import db
 
 class URL(db.Model):
     id=db.Column(db.Integer, primary_key=True)

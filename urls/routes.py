@@ -1,4 +1,5 @@
 from flask import request, jsonify, redirect, render_template
+from xURL import app, db, cache 
 from app import app, db, cache
 from models import URL
 import random
